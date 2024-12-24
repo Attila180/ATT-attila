@@ -1,32 +1,5 @@
-"0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599_0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
-        "base_id": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "base_name": "Wrapped BTC",
-        "base_symbol": "WBTC",
-        "quote_id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "quote_name": "Wrapped Ether",
-        "quote_symbol": "WETH",
-        "last_price": "30.45692523596447546478", // WBTC/WETH
-        "base_volume": "1725.0451867",  // number of WBTC
-        "quote_volume": "52450.878529932577252127"  // number of WETH
-    },
-    "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2_0xdAC17F958D2ee523a2206206994597C13D831ec7": {
-        "base_id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "base_name": "Wrapped Ether",
-        "base_symbol": "WETH",
-        "quote_id": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "quote_name": "Tether USD",
-        "quote_symbol": "USDT",
-        "last_price": "345.2244580923542612263",
-        "base_volume": "195644.931427163765765227",
-        "quote_volume": "67443916.533922"
-    },
-    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48_0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
-        "base_id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "base_name": "USD//C",
-        "base_symbol": "USDC",
-        "quote_id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "quote_name": "Wrapped Ether",
-        "quote_symbol": "WETH",
-        "last_price": "0.00290132977471109834",
-        "base_volume": "73286693.891247",
-        "quote_volume": "213019.935113092043898437"
+https://api.arbiscan.io/api
+   ?module=account
+   &action=txlistinternal
+&txhash=0x7f8a6eb0e7154143999e32614b1de2fe918a02f9b169fa369fb308548c426568
+   &apikey=B6SVGA7K3YBJEQ69AFKJF4YHVX
